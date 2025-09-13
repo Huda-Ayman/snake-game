@@ -39,20 +39,3 @@ pip install windows-curses
 
 ## 🎮 Controls
 - **Arrow keys** → Move snake
-
----
-
-## 📷 Demo
-*(Add a screenshot or GIF of your game here if you want!)*
-
----
-
-## ✨ Future Improvements
-- Add score counter  
-- Add difficulty levels  
-- Add sound effects  
-
----
-
-## 🙌 Author
-Made with ❤️ by [Your Name] while learning Python.
