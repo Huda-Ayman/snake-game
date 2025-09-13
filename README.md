@@ -17,9 +17,6 @@ This project was created as part of my Python learning journey to practice logic
 - Python 3.x  
 - `curses` library (comes pre-installed on Linux/Mac. For Windows: install `windows-curses`)
 
-```bash
-pip install windows-curses
-```
 
 ---
 
