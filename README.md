@@ -1,4 +1,4 @@
-# 🐍 Snake Game (Python + Curses)
+# 🐍 Snake Game 
 
 A simple implementation of the **classic Snake Game** using Python and the `curses` library.  
 This project was created as part of my Python learning journey to practice logic, input handling, and working with external libraries.
